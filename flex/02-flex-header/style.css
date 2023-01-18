@@ -5,6 +5,7 @@
   flex-direction: row;
   justify-content: space-between;
   padding: 8px;
+  align-items: center;
 }
 
 .logo {
@@ -13,7 +14,6 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-
 }
 
 ul {
