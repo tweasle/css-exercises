@@ -51,11 +51,11 @@ ul {
 }
 
 .right-items {
-  
+  display: flex;
 }
 
 .left-items {
-  
+  display: flex;
 }
 
 li {
