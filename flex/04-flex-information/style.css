@@ -33,8 +33,6 @@ img {
 .plants {
   display: flex;
   flex-direction: row;
-  display: flex;
-  flex-direction: row;
 }
 
 .plants div {
