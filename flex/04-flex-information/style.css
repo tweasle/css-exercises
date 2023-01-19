@@ -41,7 +41,7 @@ img {
   width: 200px;
   margin: 32px 26px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 .plants-container {
