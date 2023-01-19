@@ -62,3 +62,8 @@ ul {
 li {
   display: inline;
 }
+
+.links {
+  margin: 0;
+  padding: 0;
+}
