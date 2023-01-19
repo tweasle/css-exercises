@@ -29,3 +29,8 @@ img {
   display: flex;
   flex-direction: row;
 }
+
+.title-container {
+  display: flex;
+  justify-content: center;
+}
