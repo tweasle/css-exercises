@@ -34,3 +34,7 @@ img {
   display: flex;
   justify-content: center;
 }
+
+.plants div {
+  width: 200px;
+}
