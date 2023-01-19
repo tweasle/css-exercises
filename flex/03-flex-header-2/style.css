@@ -48,9 +48,13 @@ ul {
 }
 
 .right-items {
-
+  
 }
 
 .left-items {
   
+}
+
+li {
+  display: inline;
 }
