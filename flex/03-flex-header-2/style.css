@@ -39,6 +39,7 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+  margin: 8px 16px;
 }
 
 a {
@@ -55,7 +56,6 @@ ul {
 .right-items {
   display: flex;
   align-items: center;
-  
 }
 
 .left-items {
@@ -65,6 +65,7 @@ ul {
 
 li {
   display: inline;
+  margin: 8px 16px;
 }
 
 .links {
