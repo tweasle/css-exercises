@@ -57,6 +57,7 @@ ul {
 
 .left-items {
   display: flex;
+  align-items: center;
 }
 
 li {
