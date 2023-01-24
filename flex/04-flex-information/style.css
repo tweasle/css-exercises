@@ -41,6 +41,11 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
+  display: flex;
+}
+
+.barberry, .chili, .pepper, .saffron > div {
+  text-align: center;
 }
 
 .plants-container {
