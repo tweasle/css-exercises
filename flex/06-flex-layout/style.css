@@ -37,6 +37,7 @@ input {
 
 .header {
   display: flex;
+  justify-content: space-between;
 }
 
 .header .left-links,.right-links {
@@ -45,7 +46,8 @@ input {
 
 .footer {
   display: flex;
-  background-color: #eeeeee
+  background-color: #eeeeee;
+  justify-content: space-between;
 }
 
 .footer .left-links,.right-links {
