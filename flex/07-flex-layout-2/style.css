@@ -4,6 +4,9 @@ body {
   min-height: 100vh;
 }
 
+.header-container {
+  display: flex;
+}
 .header {
   height: 72px;
   background: darkmagenta;
