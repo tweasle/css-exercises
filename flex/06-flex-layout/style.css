@@ -39,3 +39,11 @@ ul {
 .header {
   display: flex;
 }
+
+.left-links {
+  display: flex;
+}
+
+.right-links {
+  display: flex;
+}
