@@ -44,6 +44,10 @@ ul {
   display: flex;
 }
 
+.footer {
+  display: flex;
+}
+
 .footer .left-links,.right-links {
   display: flex;
 }
