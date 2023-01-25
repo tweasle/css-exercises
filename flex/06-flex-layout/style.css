@@ -40,10 +40,6 @@ ul {
   display: flex;
 }
 
-.left-links {
-  display: flex;
-}
-
-.right-links {
+.header .left-links,.right-links {
   display: flex;
 }
