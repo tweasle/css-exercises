@@ -38,6 +38,7 @@ input {
 .header {
   display: flex;
   justify-content: space-between;
+  padding: 16px;
 }
 
 .header .left-links,.right-links {
@@ -48,6 +49,7 @@ input {
   display: flex;
   background-color: #eeeeee;
   justify-content: space-between;
+  padding: 16px;
 }
 
 .footer .left-links,.right-links {
