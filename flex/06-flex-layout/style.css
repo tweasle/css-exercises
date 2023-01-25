@@ -43,6 +43,7 @@ input {
 
 .header .left-links,.right-links {
   display: flex;
+  padding: 0px;
 }
 
 .footer {
@@ -54,6 +55,7 @@ input {
 
 .footer .left-links,.right-links {
   display: flex;
+  padding: 0px;
 }
 
 li {
