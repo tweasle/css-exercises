@@ -48,3 +48,7 @@ input {
 .footer .left-links,.right-links {
   display: flex;
 }
+
+li {
+  list-style: none;
+}
