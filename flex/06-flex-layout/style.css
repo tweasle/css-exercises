@@ -43,3 +43,7 @@ ul {
 .header .left-links,.right-links {
   display: flex;
 }
+
+.footer .left-links,.right-links {
+  display: flex;
+}
