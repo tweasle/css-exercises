@@ -45,6 +45,7 @@ input {
   display: flex;
   padding: 0px;
   margin: 0px;
+  gap: 24px;
 }
 
 .footer {
@@ -58,6 +59,7 @@ input {
   display: flex;
   padding: 0px;
   margin: 0px;
+  gap: 24px;
 }
 
 li {
