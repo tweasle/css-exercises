@@ -26,10 +26,6 @@ input {
   margin-bottom: 16px;
 }
 
-ul {
-  list-style: none;
-}
-
 .content {
   display: flex;
   flex-direction: column;
@@ -46,6 +42,7 @@ ul {
 
 .footer {
   display: flex;
+  background-color: #eeeeee
 }
 
 .footer .left-links,.right-links {
