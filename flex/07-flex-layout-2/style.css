@@ -20,10 +20,14 @@ body {
 }
 
 .footer {
+  display: flex;
   height: 72px;
   background: #eee;
   color: darkmagenta;
   align-self: flex-end;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
 }
 
 .sidebar {
@@ -50,4 +54,9 @@ body {
 
 .content-container {
   display: flex;
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: row;
 }
