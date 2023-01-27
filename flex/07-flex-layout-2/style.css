@@ -23,6 +23,7 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  align-self: flex-end;
 }
 
 .sidebar {
@@ -44,6 +45,7 @@ body {
 .card-container {
   display: flex;
   flex-direction: row;
+  flex: 1;
 }
 
 .content-container {
