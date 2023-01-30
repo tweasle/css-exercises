@@ -39,6 +39,9 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  padding: 32px;
+  width: 300px;
+  margin: 16px;
 }
 
 .main-container {
@@ -50,6 +53,8 @@ body {
   display: flex;
   flex-direction: row;
   flex: 1;
+  flex-wrap: wrap;
+  padding: 32px;
 }
 
 .content-container {
@@ -58,7 +63,7 @@ body {
 
 .sidebar {
   display: flex;
-  flex: 1;
+  flex: 0 0 auto;
   padding: 16px;
 }
 
